@@ -1,4 +1,4 @@
-# 🌐 Real-Time Face Mask Detection Using Deep Learning 🎭
+# 🌐Real-Time Face Mask Detection Using Deep Learning🎭
 
 ## ✨ Overview
 The COVID-19 pandemic underscored the importance of wearing masks as a preventive measure. This project focuses on building a **real-time face mask detection system** using **Deep Learning** and **Computer Vision** techniques. By leveraging **Convolutional Neural Networks (CNNs)** and **OpenCV**, we achieved an impressive **89% accuracy** 📊 in detecting whether a person is wearing a mask or not from real-time webcam footage.
