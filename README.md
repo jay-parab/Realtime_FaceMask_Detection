@@ -52,6 +52,3 @@ The **Face Mask Detection System** can be integrated into various real-world app
 
 ## 🎯 Conclusion
 This project provided hands-on experience in building **AI-driven real-time applications**. It enhanced my understanding of **deep learning, model optimization, image preprocessing, and real-time detection pipelines**. The knowledge gained from this project is applicable to broader fields like **biometric security, medical imaging, and automated surveillance**.
-
----
-📬 **Let’s connect!** Feel free to reach out for collaboration or discussion. 👨‍💻
